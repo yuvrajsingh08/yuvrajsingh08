@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">A passionate Full Stack Developer currently in my third year of B.Tech in Information Technology at Bundelkhand Institute of Engineering and Technology, Jhansi.</h3>
+<h3 align="center">A passionate Full Stack Developer currently in my final year of B.Tech in Information Technology at Bundelkhand Institute of Engineering and Technology, Jhansi.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvrajsingh08" alt="yuvrajsingh08" /></a> </p>
 
 - 🌱 I’m currently learning **Devops, System Design, and DSA in C++ (aiming for 4⭐ on CodeChef)**
 
-- 🎓 Bundelkhand Institute of Engineering and Technology, Jhansi **3rd Year B.Tech Student — Information Technology**
+- 🎓 Bundelkhand Institute of Engineering and Technology, Jhansi **Final Year B.Tech Student — Information Technology**
 
 - 🤝 I’m looking for help with **Preparing for frontend interviews, and exploring internship opportunities. Always open to feedback!**
 
