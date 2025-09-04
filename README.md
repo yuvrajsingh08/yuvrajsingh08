@@ -33,9 +33,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://tenor.com/view/wave-hi-gif-4292219348469538497"  />
+![Waving GIF](https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif)
+<img src="https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif" alt="Waving" width="150"/>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -68,7 +68,9 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake.svg#gh-light-mode-only)
+
 
 
 ###
