@@ -33,7 +33,6 @@
 
 ###
 
-![Waving GIF](https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif)
 <img src="https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif" alt="Waving" width="150"/>
 
 
