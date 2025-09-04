@@ -31,11 +31,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh08&" alt="yuvrajsingh08" /></p>
 
+###  
+
+<img align="right" height="150" src="https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif" />
+
 ###
 
-<img src="https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif" alt="Waving" width="150"/>
-
-###
 
 ###
 
