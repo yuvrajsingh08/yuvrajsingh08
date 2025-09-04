@@ -68,8 +68,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake.svg)
 
 
 ###
