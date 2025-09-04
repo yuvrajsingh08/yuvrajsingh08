@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **DevOps, System Design, and DSA in C++ (aiming for 4⭐ on CodeChef)**  
 - 🎓 Bundelkhand Institute of Engineering and Technology, Jhansi **Final Year B.Tech Student — Information Technology**  
 - 🤝 I’m looking for help with **Preparing for frontend interviews, and exploring internship opportunities. Always open to feedback!**  
-- 👨‍💻 My Personal Portfolio: [View Here](https://react-portfolio-git-main-yuvraj-singhs-projects-367d936f.vercel.app/)  
+- 👨‍💻 My Personal Portfolio: [View Here](https://proft-folio-nextjs-pvk7.vercel.app)  
 - 📫 How to reach me: **uvsingh9999@gamil.com**  
 
 ---
