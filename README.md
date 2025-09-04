@@ -31,9 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh08&" alt="yuvrajsingh08" /></p>
 
-###  
+###
 
-<img align="right" height="150" src="https://media.tenor.com/olb2y-YcdPQAAAAi/wave-hi.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
