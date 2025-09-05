@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Yuvraj+Singh;Full+Stack+Developer;MERN+Stack+%7C+DSA+in+C++;Open+to+Internships+%26+Collabs" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate Full Stack Developer currently in my final year of B.Tech in Information Technology at Bundelkhand Institute of Engineering and Technology, Jhansi.</h3>
 
 ---
