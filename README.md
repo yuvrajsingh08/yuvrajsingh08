@@ -68,15 +68,13 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh08&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsingh08&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsingh08&show_icons=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="GitHub Stats" />
 
-<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsingh08&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=518400" height="150" alt="Top Languages" />
+
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=yuvrajsingh08&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajsingh08&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
 </div>
 
 
