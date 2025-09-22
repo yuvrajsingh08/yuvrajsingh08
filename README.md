@@ -73,8 +73,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsingh08&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_seconds=518400" height="150" alt="Top Languages" />
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=yuvrajsingh08&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
+
 </div>
 
 
