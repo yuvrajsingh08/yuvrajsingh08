@@ -94,7 +94,7 @@
 <h2 align="center">🏆 My LeetCode Achievements</h2>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&animated=true" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" alt="LeetCode Badges" />
 </p>
 
 
