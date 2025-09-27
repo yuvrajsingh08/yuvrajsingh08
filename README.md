@@ -83,7 +83,7 @@
 ![LeetCode badge](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=LeetCode&logoColor=yellow)
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
-
+<img src="https://your-gif-link.gif" width="200">
 ---
 
 <h3 align="left">Socials & Contact:</h3>
