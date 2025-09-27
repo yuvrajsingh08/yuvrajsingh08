@@ -97,6 +97,10 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" alt="LeetCode Badges" />
 </p>
 
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" alt="LeetCode Badges" />
+</p>
+
 
 ---
 
