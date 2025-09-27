@@ -93,14 +93,30 @@
 
 <h2 align="center">🏆 My LeetCode Achievements</h2>
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" alt="LeetCode Badges" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" alt="LeetCode Badges" />
-</p>
+  <!-- Daily badges -->
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=daily&border=no-border&animated=true" 
+    alt="LeetCode Daily Badges" 
+    width="400"
+  />
 
+  <!-- Annual badges -->
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=annual&border=no-border&animated=true" 
+    alt="LeetCode Annual Badges" 
+    width="400"
+  />
+
+  <!-- Submission badges -->
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=submission&border=no-border&animated=true" 
+    alt="LeetCode Submission Badges" 
+    width="400"
+  />
+
+</div>
 
 ---
 
