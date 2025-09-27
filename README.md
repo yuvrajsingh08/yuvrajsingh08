@@ -90,6 +90,14 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
 </p>
 
+
+<h2 align="center">🏆 My LeetCode Achievements</h2>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&animated=true" alt="LeetCode Badges" />
+</p>
+
+
 ---
 
 ### 📱 Socials & Contact
