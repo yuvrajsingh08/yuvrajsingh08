@@ -78,38 +78,53 @@
 ---
 
 ## 🏆 My LeetCode Journey
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/uvsingh9999?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+
+<p align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <!-- Stats card -->
+  <img 
+    src="https://leetcard.jacoblin.cool/uvsingh9999?theme=dark&font=Baloo%202&ext=heatmap" 
+    alt="LeetCode Stats" 
+    width="400"
+    style="vertical-align: top;"
+  />
+
+  <!-- Animated GIF -->
+  <img 
+    src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" 
+    alt="Animated Badge" 
+    width="200"
+    style="vertical-align: top;"
+  />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode Badge"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
-</p>
 
 
 <h2 align="center">🏆 My LeetCode Achievements</h2>
 
 <p align="center">
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" 
-    alt="LeetCode Daily Badges" 
-    width="300"
-  />
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" 
-    alt="LeetCode Annual Badges" 
-    width="300"
-  />
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=submission&border=no-border&animated=true" 
-    alt="LeetCode Submission Badges" 
-    width="300"
-  />
+  <span style="vertical-align: top;">
+    <img 
+      src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" 
+      alt="LeetCode Daily Badges" 
+      width="300"
+    />
+  </span>
+  <span style="vertical-align: top;">
+    <img 
+      src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" 
+      alt="LeetCode Annual Badges" 
+      width="300"
+    />
+  </span>
+  <span style="vertical-align: top;">
+    <img 
+      src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=submission&border=no-border&animated=true" 
+      alt="LeetCode Submission Badges" 
+      width="300"
+    />
+  </span>
 </p>
+
 
 
 
