@@ -79,12 +79,13 @@
 
 ## 🏆 My LeetCode Journey
 
-<p align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 15px; flex-wrap: nowrap;">
+
   <!-- Stats card -->
   <img 
     src="https://leetcard.jacoblin.cool/uvsingh9999?theme=dark&font=Baloo%202&ext=heatmap" 
     alt="LeetCode Stats" 
-    width="400"
+    width="300"
     style="vertical-align: top;"
   />
 
@@ -92,10 +93,12 @@
   <img 
     src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" 
     alt="Animated Badge" 
-    width="200"
+    width="150"
     style="vertical-align: top;"
   />
-</p>
+
+</div>
+
 
 
 
