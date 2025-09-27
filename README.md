@@ -76,6 +76,13 @@
 
 </div>
 
+## 🏆 My LeetCode Journey
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/uvsingh9999?theme=dark&font=Baloo%202&ext=heatmap)
+
+![LeetCode badge](https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=LeetCode&logoColor=yellow)
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
 
 ---
 
