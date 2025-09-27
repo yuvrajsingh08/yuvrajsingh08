@@ -85,15 +85,7 @@
   <img 
     src="https://leetcard.jacoblin.cool/uvsingh9999?theme=dark&font=Baloo%202&ext=heatmap" 
     alt="LeetCode Stats" 
-    width="300"
-    style="vertical-align: top;"
-  />
-
-  <!-- Animated GIF -->
-  <img 
-    src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" 
-    alt="Animated Badge" 
-    width="150"
+    width="600"
     style="vertical-align: top;"
   />
 
@@ -109,21 +101,21 @@
     <img 
       src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" 
       alt="LeetCode Daily Badges" 
-      width="300"
+      width="400"
     />
   </span>
   <span style="vertical-align: top;">
     <img 
       src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" 
       alt="LeetCode Annual Badges" 
-      width="300"
+      width="400"
     />
   </span>
   <span style="vertical-align: top;">
     <img 
       src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=submission&border=no-border&animated=true" 
       alt="LeetCode Submission Badges" 
-      width="300"
+      width="400"
     />
   </span>
 </p>
