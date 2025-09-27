@@ -93,30 +93,31 @@
 
 <h2 align="center">🏆 My LeetCode Achievements</h2>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Daily badges -->
   <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=daily&border=no-border&animated=true" 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=daily&border=no-border&animated=true" 
     alt="LeetCode Daily Badges" 
-    width="400"
+    width="300"
   />
 
   <!-- Annual badges -->
   <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=annual&border=no-border&animated=true" 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" 
     alt="LeetCode Annual Badges" 
-    width="400"
+    width="300"
   />
 
   <!-- Submission badges -->
   <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=dark&filter=submission&border=no-border&animated=true" 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=submission&border=no-border&animated=true" 
     alt="LeetCode Submission Badges" 
-    width="400"
+    width="300"
   />
 
 </div>
+
 
 ---
 
