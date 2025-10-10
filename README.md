@@ -106,13 +106,6 @@
   </span>
   <span style="vertical-align: top;">
     <img 
-      src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=annual&border=no-border&animated=true" 
-      alt="LeetCode Annual Badges" 
-      width="400"
-    />
-  </span>
-  <span style="vertical-align: top;">
-    <img 
       src="https://leetcode-badge-showcase.vercel.app/api?username=uvsingh9999&theme=transparent&filter=submission&border=no-border&animated=true" 
       alt="LeetCode Submission Badges" 
       width="400"
@@ -124,19 +117,6 @@
 
 
 ---
-
-### 📱 Socials & Contact
-<p align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
   <img src="https://raw.githubusercontent.com/yuvrajsingh08/yuvrajsingh08/output/snake.svg#gh-light-mode-only" alt="snake animation light"/>
