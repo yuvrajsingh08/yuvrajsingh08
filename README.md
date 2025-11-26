@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Yuvraj+Singh;Full+Stack+Developer;MERN+Stack+%7C+DSA+in+C++;Open+to+Internships+%26+Collabs" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Yuvraj+Singh;Full+Stack+Developer;MERN+Stack+%7C+DSA+in+C%2B%2B;Open+to+Internships+%26+Collabs" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
