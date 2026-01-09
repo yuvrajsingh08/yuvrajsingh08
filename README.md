@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkMXFuazZ6eTVwbnZrencxbWtveDB5cXFyMGdkdHB5dXd1aXZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ArzbGWLVNQzRv1aAL/giphy.gif" alt="Boy waving" />
 
-- 🌱 I’m currently learning **DevOps, System Design, and DSA in C++ (aiming for 4⭐ on CodeChef)**  
+- 🌱 I’m currently learning **ML, System Design, and DSA in C++ (aiming for 4⭐ on CodeChef)**  
 - 🎓 Bundelkhand Institute of Engineering and Technology, Jhansi **Final Year B.Tech Student — Information Technology**  
 - 🤝 I’m looking for help with **Preparing for frontend interviews, and exploring internship opportunities. Always open to feedback!**  
 - 👨‍💻 My Personal Portfolio: [View Here](https://proft-folio-nextjs-pvk7.vercel.app)  
